@@ -6,7 +6,9 @@ body {
   margin: 20px auto;
   padding: 0 10px;
   color: #363636;
-  background: #ffffff;
+  /* background: #ffffff; */
+  background-image: url("images/background.2.jpg");
+  background-size: 100%;
   text-rendering: optimizeLegibility;
 }
 
